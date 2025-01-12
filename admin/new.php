@@ -160,5 +160,4 @@ if (isset($_POST['submit'])) {
     </div>
     <script src="../resources/js/bootstrap.min.js"></script>
 </body>
-
 </html>
